@@ -1,0 +1,9 @@
+firefox:
+  14.x: '~/.watir/browsers/firefox14.app/Contents/MacOS/firefox-bin'
+  13.x: '~/.watir/browsers/firefox13.app/Contents/MacOS/firefox-bin'
+  6.x: '~/.watir/browsers/firefox6.app/Contents/MacOS/firefox-bin'
+  5.x: '~/.watir/browsers/firefox5.app/Contents/MacOS/firefox-bin'
+  4.x: '~/.watir/browsers/firefox4.app/Contents/MacOS/firefox-bin'
+
+chrome:
+  13.x: '~/.watir/browsers/chrome13.app/Contents/MacOS/chrome'
